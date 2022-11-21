@@ -4,9 +4,10 @@
 - It learned me how I could run a program from boot without an operating system
 
 ## Next goals
-[] Make a self-made bootloader for Armv8
 
-[] Boot my "operating system" on my Raspberry pi 4
+- [ ] Make a self-made bootloader for Armv8
+
+- [ ] Boot my "operating system" on my Raspberry pi 4
 
 ---------------
 ### I followed this course to learn how to build and run this program 
